@@ -1,0 +1,55 @@
+Extension Review and Decision Documentation :
+
+1] Accessed Extensions Manager :
+
+Opened Chrome Extensions Manager and viewed all extensions installed.
+
+2] Extensions Reviewed :
+
+i] Google Docs Offline:
+
+- Function: Allows offline editing/viewing of Google documents.
+
+- Permissions: Can read and change data on google.com and drive.google.com sites.
+
+- Source: Installed by default.
+
+- Decision: Useful for offline productivity, known/trusted extension.
+
+ii] McAfee WebAdvisor:
+
+- Function: Security extension for safe web browsing.
+
+- Permissions: Can read/change data on sites, optional incognito and file URL access is disabled.
+
+- Source: Added by a third party.
+
+- Decision: Known and trusted security tool; retained for extra browsing protection.
+
+iii] React Developer Tools:
+
+- Function: Adds debugging tools for React development in Chrome DevTools.
+
+- Permissions: Can read/change data on all sites (required for React inspection).
+
+- Source: Chrome Web Store.
+
+- Decision: Essential for web development and project debugging.
+
+3] Actions Taken :
+
+- Reviewed purpose, permissions, and source of each installed extension.
+
+- Checked if any extension had excessive or suspicious permissions—none found.
+
+- Confirmed that all extensions were intentionally installed and necessary for productivity, security, or development.
+
+- Decided not to delete or disable any extension, as all currently installed are safe and required.
+
+- No unfamiliar or suspicious extensions found.
+
+4] Next Steps :
+
+- Will continue to monitor extensions regularly.
+
+- Will update documentation if any new extensions are added, removed, or found to be suspicious.

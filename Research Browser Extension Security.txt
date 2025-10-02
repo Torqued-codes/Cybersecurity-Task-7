@@ -1,0 +1,29 @@
+Research Browser Extension Security :
+
+i] What risks can browser extensions pose?
+
+- Browser extensions can expose users to data privacy breaches, malware, phishing, and system compromise if they have excessive permissions or come from untrusted sources.
+
+- Malicious extensions might steal personal information, inject ads or malicious scripts, redirect traffic to phishing sites, or even hijack accounts by stealing cookies.
+
+- Outdated or abandoned extensions are vulnerable as they might not receive vital security updates, making them a target for hackers.
+
+- Extensions with poor coding or malicious intent can slow browser performance or make systems unstable.
+
+
+ii] Which permissions are most suspicious?
+
+- Permissions allowing an extension to “read and change all your data on all websites” are highly risky because they give the extension access to everything viewed or entered in the browser, including passwords and personal data.
+
+- The ability to read/modify browser settings, change the default search engine, intercept network requests, or access clipboard or cookies are also considered dangerous.
+
+- Any extension asking for access to all site data, browsing history or the ability to manipulate or read your files should be scrutinized very carefully.
+
+- Extensions should only have permissions essential for their function; broad or excessive requests are a warning sign.
+
+
+iii] How do you report a malicious extension?
+
+- For Chrome: Go to the extension’s page in the Chrome Web Store and click “Report Abuse.” Fill out the form describing why the extension is suspicious or malicious.
+
+- Reporting helps platform security teams investigate and remove malicious extensions to protect other users.
